@@ -1,0 +1,23 @@
+[0.070s] Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/firdaus/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples -- -j8 -l8
+[0.710s] [35m[1mConsolidate compiler generated dependencies of target simple_publisher[0m
+[0.711s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_publisher.dir/src/simple_publisher.cpp.o[0m
+[3.901s] [01m[K/home/firdaus/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_publisher.cpp:6:37:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kclass[m[K’
+[3.913s]     6 | using namespace std::chrono_literals
+[3.913s]       |                                     [01;31m[K^[m[K
+[3.913s]       |                                     [32m[K;[m[K
+[3.913s]     7 | 
+[3.913s]     8 | [32m[Kclass[m[K SimplePublisher : public rclcpp::Node
+[3.913s]       | [32m[K~~~~~[m[K                                
+[3.928s] [01m[K/home/firdaus/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_publisher.cpp:[m[K In constructor ‘[01m[KSimplePublisher::SimplePublisher()[m[K’:
+[3.928s] [01m[K/home/firdaus/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_publisher.cpp:12:13:[m[K [01;31m[Kerror: [m[K‘[01m[Kpub[m[K’ was not declared in this scope; did you mean ‘[01m[Kpub_[m[K’?
+[3.928s]    12 |             [01;31m[Kpub[m[K = create_publisher<std_msgs::msg::String>("chatter_cpp", 10);
+[3.928s]       |             [01;31m[K^~~[m[K
+[3.928s]       |             [32m[Kpub_[m[K
+[3.976s] [01m[K/home/firdaus/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_publisher.cpp:[m[K In member function ‘[01m[Kvoid SimplePublisher::timerCallback()[m[K’:
+[3.976s] [01m[K/home/firdaus/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_publisher.cpp:23:9:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+[3.976s]    23 |         [01;31m[K}[m[K
+[3.976s]       |         [01;31m[K^[m[K
+[5.206s] gmake[2]: *** [CMakeFiles/simple_publisher.dir/build.make:76: CMakeFiles/simple_publisher.dir/src/simple_publisher.cpp.o] Error 1
+[5.210s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/simple_publisher.dir/all] Error 2
+[5.210s] gmake: *** [Makefile:146: all] Error 2
+[5.228s] Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/firdaus/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples -- -j8 -l8

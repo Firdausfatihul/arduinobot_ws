@@ -1,0 +1,7 @@
+[0.178s] Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/firdaus/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples -- -j8 -l8
+[0.807s] [35m[1mConsolidate compiler generated dependencies of target simple_publisher[0m
+[0.810s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_publisher.dir/src/simple_publisher.cpp.o[0m
+[5.538s] gmake[2]: *** [CMakeFiles/simple_publisher.dir/build.make:76: CMakeFiles/simple_publisher.dir/src/simple_publisher.cpp.o] Interrupt
+[5.539s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/simple_publisher.dir/all] Interrupt
+[5.539s] gmake: *** [Makefile:146: all] Interrupt
+[5.693s] Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/firdaus/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples -- -j8 -l8
