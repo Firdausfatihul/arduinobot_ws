@@ -1,3 +1,5 @@
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/gazebo.launch.py
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/display.launch.py
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/forward_drive_arm.STL
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/claw_support.STL
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/basement.STL
@@ -9,10 +11,20 @@
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/triangular_link.STL
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/left_finger.STL
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/servo_plate.STL
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/pi_camera.STL
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/round_plate.STL
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/horizontal_arm.STL
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model.config
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model-1_2.sdf
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model.sdf
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model-1_3.sdf
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model-1_4.sdf
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model.config
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model-1_2.sdf
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model.sdf
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model-1_3.sdf
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model-1_4.sdf
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot.urdf.xacro
-/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/display.launch.py
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/rviz/display.rviz
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/package_run_dependencies/arduinobot_description
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/parent_prefix_path/arduinobot_description
