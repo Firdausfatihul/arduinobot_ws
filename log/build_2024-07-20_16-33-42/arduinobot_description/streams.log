@@ -1,0 +1,57 @@
+[0.100s] Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_description -- -j4 -l4
+[0.519s] Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_description -- -j4 -l4
+[0.606s] Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firdaus/arduinobot_ws/build/arduinobot_description
+[0.621s] -- Install configuration: ""
+[0.624s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/gazebo.launch.py
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/display.launch.py
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/forward_drive_arm.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/claw_support.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/basement.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/vertical_drive_arm.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/plate.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/right_finger.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/base_plate.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/link.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/triangular_link.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/left_finger.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/servo_plate.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/pi_camera.STL
+[0.626s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/round_plate.STL
+[0.627s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/horizontal_arm.STL
+[0.627s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models
+[0.627s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun
+[0.633s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model.config
+[0.634s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model-1_2.sdf
+[0.635s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model.sdf
+[0.635s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model-1_3.sdf
+[0.635s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/sun/model-1_4.sdf
+[0.636s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane
+[0.636s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model.config
+[0.636s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model-1_2.sdf
+[0.636s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model.sdf
+[0.638s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model-1_3.sdf
+[0.638s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model-1_4.sdf
+[0.638s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf
+[0.638s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot.urdf.xacro
+[0.638s] -- Installing: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot_ros2_control.xacro
+[0.646s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot_gazebo.xacro
+[0.646s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/rviz
+[0.649s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/rviz/display.rviz
+[0.650s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/package_run_dependencies/arduinobot_description
+[0.653s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/parent_prefix_path/arduinobot_description
+[0.654s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/ament_prefix_path.sh
+[0.656s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/ament_prefix_path.dsv
+[0.657s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/path.sh
+[0.657s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/path.dsv
+[0.657s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/local_setup.bash
+[0.657s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/local_setup.sh
+[0.657s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/local_setup.zsh
+[0.657s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/local_setup.dsv
+[0.658s] -- Installing: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/package.dsv
+[0.658s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/packages/arduinobot_description
+[0.660s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/cmake/arduinobot_descriptionConfig.cmake
+[0.660s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/cmake/arduinobot_descriptionConfig-version.cmake
+[0.660s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/package.xml
+[0.725s] Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firdaus/arduinobot_ws/build/arduinobot_description

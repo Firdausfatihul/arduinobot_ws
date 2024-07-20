@@ -25,6 +25,8 @@
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model-1_3.sdf
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/models/ground_plane/model-1_4.sdf
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot.urdf.xacro
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot_ros2_control.xacro
+/home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot_gazebo.xacro
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/rviz/display.rviz
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/package_run_dependencies/arduinobot_description
 /home/firdaus/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/parent_prefix_path/arduinobot_description
