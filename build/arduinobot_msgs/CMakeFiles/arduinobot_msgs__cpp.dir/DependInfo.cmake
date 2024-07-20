@@ -15,6 +15,14 @@ set(CMAKE_MULTIPLE_OUTPUT_PAIRS
   "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/add_two_ints__builder.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
   "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/add_two_ints__struct.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
   "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/add_two_ints__traits.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
+  "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/euler_to_quaternion__builder.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
+  "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/euler_to_quaternion__struct.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
+  "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/euler_to_quaternion__traits.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
+  "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/quaternion_to_euler__builder.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
+  "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/quaternion_to_euler__struct.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
+  "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/detail/quaternion_to_euler__traits.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
+  "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/euler_to_quaternion.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
+  "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/quaternion_to_euler.hpp" "/home/firdaus/arduinobot_ws/build/arduinobot_msgs/rosidl_generator_cpp/arduinobot_msgs/srv/add_two_ints.hpp"
   )
 
 

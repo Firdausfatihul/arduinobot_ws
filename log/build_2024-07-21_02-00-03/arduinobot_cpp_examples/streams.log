@@ -1,0 +1,22 @@
+[0.075s] Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples -- -j4 -l4
+[0.242s] [100%] Built target simple_publisher
+[0.328s] Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples -- -j4 -l4
+[0.559s] Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples
+[0.577s] -- Install configuration: ""
+[0.578s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_publisher
+[0.587s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_examples
+[0.587s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_examples
+[0.588s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.sh
+[0.588s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.dsv
+[0.588s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.sh
+[0.589s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.dsv
+[0.596s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.bash
+[0.598s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.sh
+[0.599s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.zsh
+[0.599s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.dsv
+[0.600s] -- Installing: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.dsv
+[0.600s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/packages/arduinobot_cpp_examples
+[0.600s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig.cmake
+[0.601s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig-version.cmake
+[0.602s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.xml
+[0.602s] Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firdaus/arduinobot_ws/build/arduinobot_cpp_examples

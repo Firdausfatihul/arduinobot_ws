@@ -1,0 +1,6 @@
+Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_utils': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/firdaus/arduinobot_ws/src/arduinobot_utils -DCMAKE_INSTALL_PREFIX=/home/firdaus/arduinobot_ws/install/arduinobot_utils
+Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_utils' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/firdaus/arduinobot_ws/src/arduinobot_utils -DCMAKE_INSTALL_PREFIX=/home/firdaus/arduinobot_ws/install/arduinobot_utils
+Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_utils': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_utils -- -j4 -l4
+Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_utils' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_utils -- -j4 -l4
+Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_utils': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firdaus/arduinobot_ws/build/arduinobot_utils
+Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_utils' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firdaus/arduinobot_ws/build/arduinobot_utils
