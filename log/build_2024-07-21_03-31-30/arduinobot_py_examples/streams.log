@@ -1,0 +1,25 @@
+[2.614s] Invoking command in '/home/firdaus/arduinobot_ws/src/arduinobot_py_examples': AMENT_PREFIX_PATH=/home/firdaus/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/firdaus/arduinobot_ws/install/arduinobot_msgs LD_LIBRARY_PATH=/home/firdaus/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/firdaus/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:/home/firdaus/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
+[2.969s] running egg_info
+[2.971s] writing ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/PKG-INFO
+[2.973s] writing dependency_links to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/dependency_links.txt
+[2.973s] writing entry points to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/entry_points.txt
+[2.974s] writing requirements to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/requires.txt
+[2.974s] writing top-level names to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/top_level.txt
+[2.977s] reading manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[2.983s] writing manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[2.983s] running build
+[2.983s] running build_py
+[2.983s] running install
+[2.984s] running install_lib
+[2.990s] running install_data
+[2.990s] running install_egg_info
+[2.991s] removing '/home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[2.991s] Copying ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples-0.0.0-py3.10.egg-info
+[2.991s] running install_scripts
+[3.028s] Installing simple_parameter script to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[3.031s] Installing simple_publisher script to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[3.032s] Installing simple_service_client script to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[3.032s] Installing simple_service_server script to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[3.035s] Installing simple_subscriber script to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[3.040s] writing list of installed files to '/home/firdaus/arduinobot_ws/build/arduinobot_py_examples/install.log'
+[3.111s] Invoked command in '/home/firdaus/arduinobot_ws/src/arduinobot_py_examples' returned '0': AMENT_PREFIX_PATH=/home/firdaus/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/firdaus/arduinobot_ws/install/arduinobot_msgs LD_LIBRARY_PATH=/home/firdaus/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/firdaus/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:/home/firdaus/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data

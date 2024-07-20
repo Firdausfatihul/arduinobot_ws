@@ -6,7 +6,7 @@ controller_manager:
       type: joint_trajectory_controller/JointTrajectoryController
 
     gripper_controller:
-      type: joint_trajectory_controller/ForwardCommandController
+      type: joint_trajectory_controller/JointTrajectoryController
 
     # gripper_controller:
     #   type: forward_command_controller/ForwardCommandController

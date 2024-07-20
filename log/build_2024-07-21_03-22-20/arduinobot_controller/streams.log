@@ -1,0 +1,24 @@
+[0.168s] Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_controller -- -j4 -l4
+[0.474s] Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firdaus/arduinobot_ws/build/arduinobot_controller -- -j4 -l4
+[1.043s] Invoking command in '/home/firdaus/arduinobot_ws/build/arduinobot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firdaus/arduinobot_ws/build/arduinobot_controller
+[1.060s] -- Install configuration: ""
+[1.060s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/config
+[1.062s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/config/arduinobot_controllers.yaml
+[1.074s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/launch
+[1.074s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/launch/controller.launch.py
+[1.075s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/ament_index/resource_index/package_run_dependencies/arduinobot_controller
+[1.075s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/ament_index/resource_index/parent_prefix_path/arduinobot_controller
+[1.076s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/environment/ament_prefix_path.sh
+[1.076s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/environment/ament_prefix_path.dsv
+[1.076s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/environment/path.sh
+[1.077s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/environment/path.dsv
+[1.077s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/local_setup.bash
+[1.078s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/local_setup.sh
+[1.079s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/local_setup.zsh
+[1.080s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/local_setup.dsv
+[1.117s] -- Installing: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/package.dsv
+[1.118s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/ament_index/resource_index/packages/arduinobot_controller
+[1.118s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/cmake/arduinobot_controllerConfig.cmake
+[1.119s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/cmake/arduinobot_controllerConfig-version.cmake
+[1.119s] -- Up-to-date: /home/firdaus/arduinobot_ws/install/arduinobot_controller/share/arduinobot_controller/package.xml
+[1.119s] Invoked command in '/home/firdaus/arduinobot_ws/build/arduinobot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firdaus/arduinobot_ws/build/arduinobot_controller
