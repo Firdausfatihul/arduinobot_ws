@@ -1,0 +1,26 @@
+[2.544s] Invoking command in '/home/firdaus/arduinobot_ws/src/arduinobot_py_examples': PYTHONPATH=/home/firdaus/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
+[2.916s] running egg_info
+[2.917s] writing ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/PKG-INFO
+[2.920s] writing dependency_links to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/dependency_links.txt
+[2.920s] writing entry points to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/entry_points.txt
+[2.920s] writing requirements to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/requires.txt
+[2.920s] writing top-level names to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/top_level.txt
+[2.923s] reading manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[2.926s] writing manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[2.927s] running build
+[2.936s] running build_py
+[2.936s] copying arduinobot_py_examples/simple_service_server.py -> /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[2.937s] running install
+[2.937s] running install_lib
+[2.937s] copying /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_service_server.py -> /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[2.937s] byte-compiling /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_service_server.py to simple_service_server.cpython-310.pyc
+[2.937s] running install_data
+[2.938s] running install_egg_info
+[2.939s] removing '/home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[2.939s] Copying ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples-0.0.0-py3.10.egg-info
+[2.941s] running install_scripts
+[2.976s] Installing simple_parameter script to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[2.977s] Installing simple_publisher script to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[2.977s] Installing simple_subscriber script to /home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[2.978s] writing list of installed files to '/home/firdaus/arduinobot_ws/build/arduinobot_py_examples/install.log'
+[3.014s] Invoked command in '/home/firdaus/arduinobot_ws/src/arduinobot_py_examples' returned '0': PYTHONPATH=/home/firdaus/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/firdaus/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/firdaus/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data

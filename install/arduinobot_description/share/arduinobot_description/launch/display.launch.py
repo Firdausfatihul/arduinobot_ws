@@ -25,7 +25,7 @@ def generate_launch_description():
             )
         )
 
-    robot_state_publisher_node = Node(
+    robot_state_publisher = Node(
         package="robot_state_publisher",
         executable="robot_state_publisher",
         parameters=[{"robot_description": robot_description}]
@@ -46,7 +46,7 @@ def generate_launch_description():
 
     return LaunchDescription([
         model_arg,
-        robot_state_publisher_node,
+        robot_state_publisher,
         joint_state_publisher_gui,
         rviz_node
     ])
