@@ -1,1 +1,3 @@
-![WhatsApp Image 2024-07-22 at 23 27 41_fcbf25eb](https://github.com/user-attachments/assets/90ec4348-6716-4822-b6dc-5806ace8f2fb)
+]<img width="401" alt="Screenshot 2024-08-01 at 18 11 18" src="https://github.com/user-attachments/assets/6db298b0-effe-47a7-a62e-cf360a3449eb">
+
+video : https://www.youtube.com/watch?v=DWQCYFzAirI&ab_channel=DuasDuas
